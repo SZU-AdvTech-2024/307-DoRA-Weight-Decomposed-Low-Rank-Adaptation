@@ -1,0 +1,6 @@
+@article{REPO307,
+    author = "Liu, Shih-Yang and Wang, Chien-Yi and Yin, Hongxu and Molchanov, Pavlo and Wang, Yu-Chiang Frank and Cheng, Kwang-Ting and Chen, Min-Hung",
+    journal = "arXiv preprint arXiv:2402.09353",
+    title = "{DoRA: Weight-Decomposed Low-Rank Adaptation}",
+    year = "2024"
+}
